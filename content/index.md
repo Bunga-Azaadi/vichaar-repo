@@ -1,8 +1,10 @@
+---
+title: "Vichaar Respository"
+---
 
-<center>Welcome to Bunga Azaadi's Official Vichaar Repository:
+<p align="center">Welcome to Bunga Azaadi's Official Vichaar Repository:</p>
 
-A Curated Collection of Quality Vichaars on Sikhi, Statecraft, Economics and more!
-</center>
+<p align="center">A Curated Collection of Quality Vichaars on Sikhi, Statecraft, Economics and more!</p>
 
 
 
@@ -21,9 +23,9 @@ A Curated Collection of Quality Vichaars on Sikhi, Statecraft, Economics and mor
 
 ### What is a Bunga?
 
-<p align="justify">In Sikh tradition, a Bunga is a building or facility used for resting, meeting, and other community activities. The word "Bunga" itself is a Persian term for a hospice or dwelling place, and they had been incorporated by Sikhs to initially provide places to stay for Misldhars around Harmandir Sahib. However, they also developed to fulfil a variety of functions from fortifications to telling the time of day. The most popular purpose was to be centres of learning in a variety of subjects such as raag kirtan, medicine, calligraphy and much more. Fundamentally, a Bunga was a place where people could come together to discuss ideas and share knowledge.
+<p align="justify">In Sikh tradition, a Bunga is a building or facility used for resting, meeting, and other community activities. The word "Bunga" itself is a Persian term for a hospice or dwelling place, and they had been incorporated by Sikhs to initially provide places to stay for Misldhars around Harmandir Sahib. However, they also developed to fulfil a variety of functions from fortifications to telling the time of day. The most popular purpose was to be centres of learning in a variety of subjects such as raag kirtan, medicine, calligraphy and much more. Fundamentally, a Bunga was a place where people could come together to discuss ideas and share knowledge.</p>
 
-Today, Bunga Azaadi serves as a modern-day example of this tradition, providing a space for Sikhs to discuss and deliberate on the challenges and opportunities facing the community in the modern world. Through its research, publications, and events, the Bunga strives to apply Sikh principles to contemporary issues and promote a deeper understanding of the Sikh worldview to a committed audience. As the world continues to evolve, institutions like the Bunga Azaadi are essential in ensuring that Sikhs remain connected to their roots while navigating the complexities of the modern world.</p>
+<p align="justify">Today, Bunga Azaadi serves as a modern-day example of this tradition, providing a space for Sikhs to discuss and deliberate on the challenges and opportunities facing the community in the modern world. Through its research, publications, and events, the Bunga strives to apply Sikh principles to contemporary issues and promote a deeper understanding of the Sikh worldview to a committed audience. As the world continues to evolve, institutions like the Bunga Azaadi are essential in ensuring that Sikhs remain connected to their roots while navigating the complexities of the modern world.</p>
 
 ### Why is this needed?
 
@@ -31,9 +33,9 @@ Today, Bunga Azaadi serves as a modern-day example of this tradition, providing 
 
 ### How does it work?
 
-<p align="justify">We aim to produce and curate a collection of quality outputs in the form of publicly available _Vichaars._ Some will communicate the positions members of the Bunga reaches on different topics and how we reached them, whereas others will be incorporated in our knowledge base (Vichaar Repository) with the permission of collaborators. We will also host regular debates to discuss current events and different subjects in order to help explore and test different ideas and interpretations. It is crucial to understand that the author of each respective Vichaar represents no one but themselves, and there is no claim to hold the single authoritative opinion on behalf of the whole Panth. Instead, contributors can set a solid stance for themselves, and share their reasoning for others to assess as part of their process of reaching their own conclusions. Whilst we may also include Vichaars in our repository that not all members of the Bunga may disagree with, the Bungai — the director(s) of the Bunga — may feel they are still valuable for the Sangat to consider within certain parameters.
+<p align="justify">We aim to produce and curate a collection of quality outputs in the form of publicly available _Vichaars._ Some will communicate the positions members of the Bunga reaches on different topics and how we reached them, whereas others will be incorporated in our knowledge base (Vichaar Repository) with the permission of collaborators. We will also host regular debates to discuss current events and different subjects in order to help explore and test different ideas and interpretations. It is crucial to understand that the author of each respective Vichaar represents no one but themselves, and there is no claim to hold the single authoritative opinion on behalf of the whole Panth. Instead, contributors can set a solid stance for themselves, and share their reasoning for others to assess as part of their process of reaching their own conclusions. Whilst we may also include Vichaars in our repository that not all members of the Bunga may disagree with, the Bungai — the director(s) of the Bunga — may feel they are still valuable for the Sangat to consider within certain parameters.</p>
 
-Through our outputs, we aim to establish the world's most advanced and quality collection of Vichaars related to Sikhi, Statecraft, Economics and more!
+<p align="justify">Through our outputs, we aim to establish the world's most advanced and quality collection of Vichaars related to Sikhi, Statecraft, Economics and more!
 </p>
 ### How can I get Involved?
 
@@ -62,11 +64,11 @@ Through our outputs, we aim to establish the world's most advanced and quality c
 
 **University Students**
 
-Dissertations! So many students put in so much effort to write about something that could be genuinely quite useful for others to know. However, the issue is once they are written and graded, they are usually filed away and forgotten about.
+<p align="justify">Dissertations! So many students put in so much effort to write about something that could be genuinely quite useful for others to know. However, the issue is once they are written and graded, they are usually filed away and forgotten about.</p>
 
-Instead, consider submitting them to Bunga Azaadi if you have completed one related to the topics covered by us. We can then work with you to generate summaries in digestible formats that we can share with Sangat, as well as host the full piece itself in our Vichaar Repo. You will be given full credit and can link to any of your pages or social media handles.
+<p align="justify">Instead, consider submitting them to Bunga Azaadi if you have completed one related to the topics covered by us. We can then work with you to generate summaries in digestible formats that we can share with Sangat, as well as host the full piece itself in our Vichaar Repo. You will be given full credit and can link to any of your pages or social media handles.</p>
 
-The same applies for anyone, student or not. If you would like to submit an essay, article or a project to help us with this goal, please get in touch via email.
+<p align="justify">The same applies for anyone, student or not. If you would like to submit an essay, article or a project to help us with this goal, please get in touch via email.</p>
 
 #### Become A Member
 
