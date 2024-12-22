@@ -1,7 +1,4 @@
 
-
----
-
 ## About
 
 One opportunity to test statecraft on a small scale is through “Sikh Spaces”. This should provide an avenue in which to build the necessary skills. knowledge and competency to effectively engage in statecraft on larger scales. If we as a Panth can’t get it right on a small level, then what use is attempting larger level projects in which the consequences would similarly be on a large scale. However, not all Sikh Spaces have to be Gurudwarai. 

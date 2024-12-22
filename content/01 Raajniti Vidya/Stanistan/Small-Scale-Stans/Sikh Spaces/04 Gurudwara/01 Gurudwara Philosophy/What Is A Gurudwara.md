@@ -1,6 +1,4 @@
 
----
-
 ## Definition and Origins
 
 Gurdwara, derived from the Gurmukhi script (ਗੁਰਦੁਆਰਾ), translates to "Guru's portal," "abode," or "house." Historically, before the prevalence of the term "Gurdwara," Sikh places of worship were referred to as "[Dharamsalas](https://coda.io/d/_dzq30-Dy_ZQ/_sui7I)," emphasizing both spiritual practice (Simran) and selfless service (Seva).
