@@ -9,13 +9,13 @@ Combining both Sikh principles and Economic theory, the Azadist Manifesto aims t
 
 ### Contents
 
-[[00 Introduction]]
-[[01 Self-Interest]]
-[[02 Markets]]
-[[03 Private Vs Public]]
-[[04 Taxes, Welfare & Safety Nets]]
-[[05 The Role of Government]]
-[[06 Conclusion]]
+- [[00 Introduction]]
+- [[01 Self-Interest]]
+- [[02 Markets]]
+- [[03 Private Vs Public]]
+- [[04 Taxes, Welfare & Safety Nets]]
+- [[05 The Role of Government]]
+- [[06 Conclusion]]
 
 **Additional**
 	[Notes (azadism.co.uk)](https://www.azadism.co.uk/notes)

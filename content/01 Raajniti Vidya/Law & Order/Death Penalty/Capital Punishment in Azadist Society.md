@@ -1,8 +1,4 @@
-
-
-By Jassa Singh Nihang
-
----
+By #Jassa-Singh-Nihang
 
   
 
@@ -153,7 +149,7 @@ The concept of Stanistans and contracts will be explained in more detail in futu
 
   
 
-### PMC’s (The various Misls)?
+### PMCs (The various Misls)?
 
 Once the Private Courts of Law give the verdict and that the criminal has been given the Death Penalty, then the Misls as talked about in Section V of the Azadist Manifesto would be given the duty to carry out the Punishment.
 
@@ -169,11 +165,8 @@ So for example, what would happen is that if a crime is committed the victim or 
 
 As mentioned, many times before, the Government’s role is to simply ensure that the Non-aggression Principle is not violated. We have covered the types of crimes that warrant the Death Penalty in an Azadist Society. As long as the capital punishment just includes those crimes and sticks to the constitution of the state, then it is less likely to become abused. Another check would be that as the Azadist state becomes more decentralised, then the people in each area whether it be a city or a small town or village can decide whether they want to legalise capital punishment or not. This falls in line with what is written in the “Contracts and Law” part of [Section V of the Azaadist Manifesto](https://www.azadism.co.uk/the-role-of-government) where individual with regards to drawing up contracts between certain parties.
 
-  
+  ![[Azadist_Law_System.png]]
 
-![Law_Layers.png](https://codahosted.io/docs/kwmAK7yfMr/blobs/bl-k-E3ULsHqA/230acd407b83ed6a42725ecd61493e06d8579717753ed299c25dd7f8943ab71682199949793def56e5098915bade772731ab70fbac3b224af9334cdd2775cdb6d6aa1ab9fbecd5b0b451458283ca8d985011a44d82d5600fde6e70cf9c0a0234769f38cd)
-
-  
 
 For example, the people in a particular city (Stan) of an Azadist state may decide to agree to a contract where capital punishment is legal in their city and anyone who commits a crime that is punishable by the death penalty is bound by it. This would include individuals not from that area that may have committed a crime punishable by death in that area. Therefore, people entering that particular city would also have to sign a contract while residing in that city that also binds them to the capital punishment if they commit a crime punishable by death while in that city. This would then also act as a deterrent to outsiders not to commit those crimes in that area. However, once those individuals leave that city then the contract is made null. If they were to return to that city on a later date then a new contract would need to be signed as each contract for a visitor to the city would only last for the duration of time within that particular place.
 

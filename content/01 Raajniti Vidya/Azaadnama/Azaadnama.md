@@ -6,8 +6,9 @@ This repo collects Vichaars related to the world's first Sikhi-based political-e
 
 ---
 
-Azadism
-	[[Azadism Definition]]
-	[[Azadism in 500 Words]]
-	
-[[Azadist Manifesto]]
+**Azadism**
+- [[Azadism Definition]]
+- [[Azadism in 500 Words]]
+
+**The Azadist Manifesto**
+- [[Azadist Manifesto]]

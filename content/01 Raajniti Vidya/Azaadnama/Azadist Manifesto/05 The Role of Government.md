@@ -242,7 +242,7 @@ For those lifestyle choices that harm a non-consenting third party, the Khalsaâ€
 
   
 
-Contracts and Law
+## Contracts and Law
 
 Although the topic of this manifesto centres around economics, as with previous sections on the style of governance, the legal system will again only be briefly touched upon using the same principles on which the economic spheres of an Azadist society stands upon. A future publication may expand upon this either as a follow up to this manifesto or through the Seva of someone else if they so desire.
 

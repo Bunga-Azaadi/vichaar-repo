@@ -1,7 +1,6 @@
 Guidance document for private law makers in a Stanistan who want to implement a death penalty in their Stans to reduce risk of wrongful excecution.
- 
 
-By Jassa Singh Nihang
+By #Jassa-Singh-Nihang 
 
 Based on [[Capital Punishment in Azadist Society]]
 

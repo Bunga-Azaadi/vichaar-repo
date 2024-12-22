@@ -16,9 +16,7 @@ This gives a general indication of how the legal system under Azadism may work a
 ‍
 > Again, it must be stressed that not all regions, groups or organisations have to set up private law systems. Sikhs in general do not have to do this for example. The only part which may make sense to have a contract is when a specific order is joined. For Sikhs joining the Khalsa, this may be applied when taking Khande di Pahul. Paper-based certificates are already given at Hazur Sahib stating your new name and date, so this could easily be modified to make it contractually binding, where the Hukams given by the Jathedar is clearly expressed in writing.
 ‍
-> To conclude this section, the below is a simplified diagram representing how different systems of law co-exist. At the bottom you have the underlying NAP base layer that all living within Azadism must adhere to unless you have agreed to a contract saying otherwise. On top of this base layer is where these contracts exist. These may also from part of a whole additional legal system that each individual can volunteer to take part in if they so desire. For example, a private city-state in the Azadist system may require residents to abide by a set of laws before moving in. However, these laws are constrained only to the jurisdiction of the property owned by the city-states owners.
+> To conclude this section, the below is a simplified diagram representing how different systems of law co-exist. At the bottom you have the underlying NAP base layer that all living within Azadism must adhere to unless you have agreed to a contract saying otherwise. On top of this base layer is where these contracts exist. These may also from part of a whole additional legal system that each individual can volunteer to take part in if they so desire. For example, a private city-state in the Azadist system may require residents to abide by a set of laws before moving in. However, these laws are constrained only to the jurisdiction of the property owned by the city-state’s owners.
 
 
-‍
-
-![61b729ca4b0a3c3103956af2_ws5Asset 7 (1).svg](https://codahosted.io/docs/CocvSsnuTW/blobs/bl-BWFRD_eQFu/2b35404c6cf7da3c9f65bb93135dfa986758f2c4c82b8adea16ed7358277979fb7add4eef4d662f31ad6f5fffefeaa0672db598193c770042e24d0a044d58d650fbcdd74657f3dbb0dd301455cf95d9f69afbf7de4314afaf095b43ee715aa9a4eeb9e0a)
+‍![[Azadist_Law_System.png]]

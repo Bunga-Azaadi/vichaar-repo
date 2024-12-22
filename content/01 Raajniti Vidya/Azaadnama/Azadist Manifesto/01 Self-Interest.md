@@ -4,7 +4,6 @@ Audio Narration | [Substack](https://azadism.substack.com/p/introduction-azadist
 
 <br>
 
-
 > _Ego is a chronic disease,_
 > 
 > _but it contains its own cure as well._

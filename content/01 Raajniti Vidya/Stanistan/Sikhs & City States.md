@@ -1,4 +1,7 @@
 #Ranjit-Singh | [Instagram: @ranjitsingh.ma](https://www.instagram.com/ranjitsingh.ma/) | [Substack: @ranjitsinghma](https://substack.com/@ranjitsinghma) |
+<br>
+<br>
+
 ## Prem Sumarag & Azadist Manifesto
 
 Prem Sumarag is an early manuscript outlining a code of conduct for Sikhs. It covers a wide range of things from birth rituals, marriage customs to methods of doing Simran. However, it is particularly unique since it is also touches upon the topics of statecraft and governance. It therefore presents a set of recommendations on how to manage society as a whole, the economy, governance style etc. Although the authorship is contested, it nevertheless echoes a tradition that stemmed from the Darbars of Guru Gobind Singh where topics such as statecraft would have been gathered and studied intensively.

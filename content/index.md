@@ -2,9 +2,19 @@
 title: "Vichaar Respository"
 ---
 
-<p align="center">Welcome to Bunga Azaadi's Official Vichaar Repository:</p>
 
-<p align="center">A Curated Collection of Quality Vichaars on Sikhi, Statecraft, Economics and more!</p>
+Welcome to Bunga Azaadi's Official Vichaar Repository:
+
+A Curated Collection of Quality Vichaars on Sikhi, Statecraft, Economics and more!
+
+
+
+**Navigation:**
+
+Vichaar Repository
+[[00 Raajniti Vidya]]
+[[00 Khalsa Revival]]
+[[00 (Not Just) The Basics of Sikhi]]
 
 
 
@@ -14,7 +24,7 @@ title: "Vichaar Respository"
 
 <p align="justify">Bunga Azaadi (Institute for Azadist Studies) is a think tank set up to discuss, debate and do the necessary Vichaars (contemplations / research / opinions) to apply a Sikh perspective to the modern world. With the rapid rate of innovations in technology and a constantly changing geo-political landscape, it is imperative that the Guru Khalsa Panth is conscious and evaluating the world around us to keep up to date. Bunga Azaadi produces and curates Vichaars from a network of individuals passionate about using Sikhi to inform our positions so to navigate these changing times and make informed decisions moving forward.</p>
 
-**Read** | [[Bunga Azaadi’s Mission]]
+**Read** | [[02 Bunga Azaadi’s Mission]]
 
 
 ## FAQ
@@ -23,9 +33,9 @@ title: "Vichaar Respository"
 
 ### What is a Bunga?
 
-<p align="justify">In Sikh tradition, a Bunga is a building or facility used for resting, meeting, and other community activities. The word "Bunga" itself is a Persian term for a hospice or dwelling place, and they had been incorporated by Sikhs to initially provide places to stay for Misldhars around Harmandir Sahib. However, they also developed to fulfil a variety of functions from fortifications to telling the time of day. The most popular purpose was to be centres of learning in a variety of subjects such as raag kirtan, medicine, calligraphy and much more. Fundamentally, a Bunga was a place where people could come together to discuss ideas and share knowledge.</p>
+<p align="justify">In Sikh tradition, a Bunga is a building or facility used for resting, meeting, and other community activities. The word "Bunga" itself is a Persian term for a hospice or dwelling place, and they had been incorporated by Sikhs to initially provide places to stay for Misldhars around Harmandir Sahib. However, they also developed to fulfil a variety of functions from fortifications to telling the time of day. The most popular purpose was to be centres of learning in a variety of subjects such as raag kirtan, medicine, calligraphy and much more. Fundamentally, a Bunga was a place where people could come together to discuss ideas and share knowledge.
 
-<p align="justify">Today, Bunga Azaadi serves as a modern-day example of this tradition, providing a space for Sikhs to discuss and deliberate on the challenges and opportunities facing the community in the modern world. Through its research, publications, and events, the Bunga strives to apply Sikh principles to contemporary issues and promote a deeper understanding of the Sikh worldview to a committed audience. As the world continues to evolve, institutions like the Bunga Azaadi are essential in ensuring that Sikhs remain connected to their roots while navigating the complexities of the modern world.</p>
+Today, Bunga Azaadi serves as a modern-day example of this tradition, providing a space for Sikhs to discuss and deliberate on the challenges and opportunities facing the community in the modern world. Through its research, publications, and events, the Bunga strives to apply Sikh principles to contemporary issues and promote a deeper understanding of the Sikh worldview to a committed audience. As the world continues to evolve, institutions like the Bunga Azaadi are essential in ensuring that Sikhs remain connected to their roots while navigating the complexities of the modern world.</p>
 
 ### Why is this needed?
 
@@ -33,10 +43,11 @@ title: "Vichaar Respository"
 
 ### How does it work?
 
-<p align="justify">We aim to produce and curate a collection of quality outputs in the form of publicly available _Vichaars._ Some will communicate the positions members of the Bunga reaches on different topics and how we reached them, whereas others will be incorporated in our knowledge base (Vichaar Repository) with the permission of collaborators. We will also host regular debates to discuss current events and different subjects in order to help explore and test different ideas and interpretations. It is crucial to understand that the author of each respective Vichaar represents no one but themselves, and there is no claim to hold the single authoritative opinion on behalf of the whole Panth. Instead, contributors can set a solid stance for themselves, and share their reasoning for others to assess as part of their process of reaching their own conclusions. Whilst we may also include Vichaars in our repository that not all members of the Bunga may disagree with, the Bungai — the director(s) of the Bunga — may feel they are still valuable for the Sangat to consider within certain parameters.</p>
+<p align="justify">We aim to produce and curate a collection of quality outputs in the form of publicly available _Vichaars._ Some will communicate the positions members of the Bunga reaches on different topics and how we reached them, whereas others will be incorporated in our knowledge base (Vichaar Repository) with the permission of collaborators. We will also host regular debates to discuss current events and different subjects in order to help explore and test different ideas and interpretations. It is crucial to understand that the author of each respective Vichaar represents no one but themselves, and there is no claim to hold the single authoritative opinion on behalf of the whole Panth. Instead, contributors can set a solid stance for themselves, and share their reasoning for others to assess as part of their process of reaching their own conclusions. Whilst we may also include Vichaars in our repository that not all members of the Bunga may disagree with, the Bungai — the director(s) of the Bunga — may feel they are still valuable for the Sangat to consider within certain parameters.
 
-<p align="justify">Through our outputs, we aim to establish the world's most advanced and quality collection of Vichaars related to Sikhi, Statecraft, Economics and more!
+Through our outputs, we aim to establish the world's most advanced and quality collection of Vichaars related to Sikhi, Statecraft, Economics and more!
 </p>
+
 ### How can I get Involved?
 
 #### Monthly Darbars
@@ -61,6 +72,8 @@ title: "Vichaar Respository"
 #### Contribute Vichaars
 
 <p align="justify">We are seeking to build the best resource for all things related to Sikh, Statecraft and Economics more. Both Miri and Piri perspectives are being sought after. So that, when the Guru Khalsa once again gets to the stage where we are implementing our own experiments in statecraft, we will have a robust knowledge base to draw from.</p>
+
+<br>
 
 **University Students**
 
@@ -92,7 +105,7 @@ All prospective members of Bunga Azaadi must complete the following steps:
 
 **Alternatives**
 
-If you have read the manifesto but don't currently have time to do these summaries, then if you can show us something equivalent (e.g. dissertations, essays or projects related to Sikhi), we can take that into account instead and just drill you more on Azadism specific questions in the interview to check familiarity with the content. Send us an email evidencing this to **contact@azadism.co.uk.**
+If you have read the manifesto but don't currently have time to do these summaries, then if you can show us something equivalent (e.g. dissertations, essays or projects related to Sikhi), we can take that into account instead and just drill you more on Azadism specific questions in the interview to check familiarity with the content. Send us an email evidencing this to contact@azadism.co.uk.
 
 Alternatively, contributing towards any Seva to help the Bunga out can also count towards an application. See what opportunities are available on our Seva Board.
 
@@ -110,7 +123,7 @@ If you want to support us in a less committed capacity and also have experience 
 
 If you have any questions, feedback or want to discuss more about any of the above, you can contact us via email or social media:
 
-E-mail: **contact@azadism.co.uk**
+E-mail: contact@azadism.co.uk
 
 Instagram: [**@bunga_azaadi**](https://www.instagram.com/bunga_azaadi/)
 

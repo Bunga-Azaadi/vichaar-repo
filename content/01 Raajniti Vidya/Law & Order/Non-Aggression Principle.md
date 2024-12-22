@@ -3,7 +3,7 @@
   
 ---
 
-...the “non-aggression principle” (NAP). This is the idea that everyone is free to live however they want to, as long as it does not impede the right for others to do the same.
+“...the ‘non-aggression principle’ (NAP). This is the idea that everyone is free to live however they want to, as long as it does not impede the right for others to do the same.”
 
 ---
   
