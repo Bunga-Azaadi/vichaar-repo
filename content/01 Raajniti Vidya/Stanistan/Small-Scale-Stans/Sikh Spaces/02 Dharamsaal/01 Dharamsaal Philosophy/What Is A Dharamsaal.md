@@ -5,7 +5,7 @@ This report delves into the historical evolution of Sikh places of worship, trac
 
 The institution of Dharamsalas occupies a central place in the history of Sikhism, serving as the precursor to the modern Gurudwaras. Understanding their origin, development, and functions provides a comprehensive insight into the socio-religious life of the early Sikh community and the enduring legacy of these institutions in the contemporary world.
 
-## The Genesis of Dharamsalas
+## The Genesis of Dharamsaals
 
 The concept of Dharamsala in Sikhi dates back to the early 16th century with the establishment of the first such center by Sri Guru Nanak Dev Ji, the founder of Sikhi, at Kartarpur in 1521. The term "Dharamsala" is derived from the Sanskrit words dharma (righteousness) and shala (place), collectively meaning "abode of righteousness." These early Sikh centers were established as places where followers could congregate to practice and discuss the principles of Sikhism, engage in communal worship, and partake in selfless service (seva).
 
@@ -56,7 +56,7 @@ Dharamsalas were not just religious centers; they were multifaceted institutions
 
 ## Transition to Gurudwaras
 
-The seamless transition from Dharamsalas to Gurudwaras reflects the continuity of Sikh religious and communal life. While the term "Gurudwara" eventually replaced Dharamsala, the fundamental principles and functions remained largely unchanged. The term Gurudwara, meaning "the gateway to the Guru," became more prevalent after the compilation of the Adi Granth, which was venerated as the next Sargun Saroop of the Guru (alongside the [Guru Khalsa Panth](https://coda.io/@bunga-azaadi/khalsanama/the-khalsa-is-the-guru-2)) following the passing of Sri Guru Gobind Singh, the tenth Sargun Saroop Guru.
+The seamless transition from Dharamsalas to Gurudwaras reflects the continuity of Sikh religious and communal life. While the term "Gurudwara" eventually replaced Dharamsala, the fundamental principles and functions remained largely unchanged. The term Gurudwara, meaning "the gateway to the Guru," became more prevalent after the compilation of the Adi Granth, which was venerated as the next Sargun Saroop of the Guru (alongside the [Guru Khalsa Panth](https://bungaazaadi.com/02-Khalsa-Revival/Khalsanama/01-Khalsa-Status/01-The-Khalsa-Is-The-Guru)) following the passing of Sri Guru Gobind Singh, the tenth Sargun Saroop Guru.
 
 The establishment of Gurudwaras marked the formalization of Sikh places of worship, with more standardized practices and greater emphasis on the centrality of the Adi Granth. However, the core values of the Dharamsala—spiritual devotion, communal service, and the fostering of Sikh identity—remained integral to the Gurudwara.
 

@@ -4,7 +4,8 @@ By #Jaskanwar-Singh
 
 > “The challenges posed to us by thinking about the past as shaped equally by social processes and cultural formations, by individuals and groups, by sudden events and long-term evolutions, by practices and beliefs, makes the historian’s task more exciting, as we strive to develop new methods that can capture the past in all its complexity. We may very well be on the edge of a cliff, but the view from here is breath taking.” — Victoria E Thompson
 
-![[image15414 1.png]]
+
+![image.png](https://codahosted.io/docs/EwrV5DIkJJ/blobs/bl-2obiOBTfj_/0804ca761beadcf00fe05048ed334c2e334c6b0d706331685cda58ffdbd0e45f2ffc6d9ee52c59251e3ed193e3d94821afe56cb42b3615bf7a8280e70eaebf6856a8110c33e8bed51e10a856a650a3d996d4b9622a66a58d627e05874b2852167d0ace5f)
 
 I deeply appreciate history. I find it fascinating. I see it as invaluable, and something we all should connect to and explore. However, it becomes disheartening when it is improperly used to push specific agendas. For me, history should be preserved in its autonomy - free from our nostalgic desires or attempts to revive it in the present. Times evolve, and we must embrace history for what it truly is: a slit in time, allowing us to observe a past. And we need to resist the urge to pull the past through the slit into the present.
 

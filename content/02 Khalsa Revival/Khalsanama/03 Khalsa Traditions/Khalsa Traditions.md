@@ -1,3 +1,0 @@
-
-- [[Jhatkanama]]
-- [[Khalsa Looting]]

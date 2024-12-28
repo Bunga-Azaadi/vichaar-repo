@@ -13,7 +13,12 @@
 — Journal of the Royal Institutions of the Sikhs (Vol IX), Civil and Religious Institutions of the Sikhs. (via [SovereignPanth](https://www.sovereignpanth.com/))
 
 ---
-![[642abe990b0de642eaf138cb3ff78a005d4903be7c8e8d3e2fdb9b440297c1bdb6c1ec7a00956dcf4433e6b6595612d989d38551560c9aa624b0059c0721651304aaee08224d933e7b3416fbf864d7284f194c59cba879fa9cb6f14b82a1efce52b5dc78.avif]]
+
+  
+
+![1_yJ7E7biIIDbyoq4oQYO29w.jpg](https://codahosted.io/docs/-P8VwHSBHL/blobs/bl-vZmVEyAe-Q/642abe990b0de642eaf138cb3ff78a005d4903be7c8e8d3e2fdb9b440297c1bdb6c1ec7a00956dcf4433e6b6595612d989d38551560c9aa624b0059c0721651304aaee08224d933e7b3416fbf864d7284f194c59cba879fa9cb6f14b82a1efce52b5dc78)
+
+
 ## Intro
 
 
@@ -30,23 +35,25 @@ Although Guru Gobind Singh’s Granth is becoming more prominent once again with
 It is from Gobind Singh’s sword and pen which set forth the Khalsa Panth to beat the drums, plant the flags, and establish righteous rule wherever they stood.
 
 # Akal Ustat
+  
 
-
-![[f09c7cd88c8cd7a36c036bc4beba4d189237211d7093a74249690dd63f431b54549d2c6230b3f625cbf2b753ce20aed0e6f200bbe887f416cd80e85f27fa02bb526af972b3f8f2eca61d5832afe8ccc95ec218360754e1be5533c983482f40857dea5af6.avif]]
+![1_BPGaLRlOy0B3QMeHqy-RVQ.png](https://codahosted.io/docs/-P8VwHSBHL/blobs/bl-SYrRnhZ8g5/f09c7cd88c8cd7a36c036bc4beba4d189237211d7093a74249690dd63f431b54549d2c6230b3f625cbf2b753ce20aed0e6f200bbe887f416cd80e85f27fa02bb526af972b3f8f2eca61d5832afe8ccc95ec218360754e1be5533c983482f40857dea5af6)
 
 In the epic praise of the Timeless, Akal Ustat, Guru Gobind Singh characterizes God as the All-Steel (sarbloh) and All-Destroying (sarbkal) Lord, a new foundation which is built upon in later writings. These lines are found inscribed on Guru Gobind Singh’s famous [armor breast plates](https://www.anglosikhmuseum.com/charaina/), as well as Baba Deep Singh’s [Chakkar](https://x.com/shastardhari_/status/1732869358479945862?s=20), written alongside hymns from the Aad Guru Granth.
 
 # Bachittar Natak
 
+  
 
-![[7ae99d3cd38f6834bbe05918ddd3204686fccb27d7626b5e834466f4ef987e6c328d86f7ed31307719a7e6365edd4ab0b2cee0185b06f17df5c7f61869f3db46578f7eae2894f48e13d80f617e6e1fa87d46662c21cc86490a428e6345e69e04c2e0176b.avif]]
+![1_8eU6lNklRBOFXewuaGT7zQ.png](https://codahosted.io/docs/-P8VwHSBHL/blobs/bl-fMj7IV6KBV/7ae99d3cd38f6834bbe05918ddd3204686fccb27d7626b5e834466f4ef987e6c328d86f7ed31307719a7e6365edd4ab0b2cee0185b06f17df5c7f61869f3db46578f7eae2894f48e13d80f617e6e1fa87d46662c21cc86490a428e6345e69e04c2e0176b)
 
 Bachittar Natak (1688) is one of the longer epics that Guru Gobind Singh wrote in which a portions tells the play of his life, including early battles. The section above is the intro to the epic in which Guru Gobind Singh praises the sword, likening it to the “savior of the universe” and the destroyer of the vicious. The genius of the 10th Guru’s poetics are at full display as the rhythm/sounds of the stanzas mimic the clanging of swords. Today, these famous lines are often sung by Sikhs in the form of kirtan across the world.
 
 # Shastar Naam Mala
 
+  
 
-![[874a927dd6f052c80f1d1924fc4d44f2e58a9eb6fd7f8f1f70e4e6369634a233a8f099b3f35c9c909a6c52e459f92ed47cf3b401ae2f18f33776ff056e7e191bd61eb25a146bd2f0ce1f3468e103a1b2b6a05f0dd4efd8d1fdc4b9183661ca14dfe7d385.avif]]
+![1_7PK6-XYaUYJghnAm1oE04Q.png](https://codahosted.io/docs/-P8VwHSBHL/blobs/bl-KQYFiG5YSq/874a927dd6f052c80f1d1924fc4d44f2e58a9eb6fd7f8f1f70e4e6369634a233a8f099b3f35c9c909a6c52e459f92ed47cf3b401ae2f18f33776ff056e7e191bd61eb25a146bd2f0ce1f3468e103a1b2b6a05f0dd4efd8d1fdc4b9183661ca14dfe7d385)
 
 Shastar Naam Mala, the naming of weapons, is Guru Gobind Singh’s compilation that can be characterized as the literal praise of weapons and likening to God. Shastar Naam mala possibly displays the central idea better than any other source as it is very literal. The famous line ਯਹੈ ਹਮਾਰੈ ਪੀਰ (these are our masters) is significant as it represents the Khalsa’s disregard for human heirarchy. An interesting and relatively unknown fact about this compilation is that the largest portion is in praise of the tupak or gun. Many are unaware that the Guru’s, going all the way back to Guru Hargobind, had access to guns and kept a significant number of them.
 
@@ -54,7 +61,7 @@ Shastar Naam Mala, the naming of weapons, is Guru Gobind Singh’s compilation t
 
 # Chandi Di Vaar / Vaar Durga Ki & Ardaas
 
-![[1_PlLReNh5PJUcn6nrEiwUzg.png]]
+![1_PlLReNh5PJUcn6nrEiwUzg.png](https://codahosted.io/docs/-P8VwHSBHL/blobs/bl-a-pQTNJ-80/cb01795571a167202d8e65001ff3c45898afeb523cb0f78ad9f15f6e1e5a7b585857a801c2099740d07f93e957924073938d58f21b2ee0c1812837c5d1cb5d3c4669ee1631d6053b5bf3051b32fc17db3fe04472a13c92dd257ce8ca2f2a6bbd7c37e54a)
 
 Possibly one of the most interesting aspects of Guru Gobind Singh’s writing is the repeated use of Chandi/Durga/Bhaguati as manifestations of Akal Purakh. One may recognize the above lines from Ardaas, but it originally comes from the 10th Guru’s Chandi di Vaar, the ballad of Chandi. It begins with the lines above and continues to the remembrance of Guru Tegh Bahadur which many Sikhs will be familiar with. From there, it tells the story of a war between the Chandi and demons. Bhaguati, which is frequently invoked at the beginning of various bani, is said to be equivalent to the Khanda (double edged sword) according to early Sikh texts. An interesting note is that Chandi, in Indic mythology, is always depicted riding a tiger or Singh. The concept of the Singh being the vehicle for therighteous sword may not be a coincidence. According to Rattan Singh Bhangu’s Panth Parkash, this vaar was read during the original Khande De Pahul (Amrit) ceremony by the 10th Guru. He also writes that Banda Singh Bahadur and Khalsa Sikhs onward would recite the ballad before battle. In a way, the tradition has carried on as Sikhs recite daily the beginning of Chandi Di Vaar within ardaas which begins by saying, “First, remember the Eternal Sword.”
 
@@ -64,7 +71,9 @@ Possibly one of the most interesting aspects of Guru Gobind Singh’s writing is
 
 (via [Manglacharan](https://www.manglacharan.com/post/form-of-sarbloh-avtar))
 
-![[1_lpFHTE8FPedsjAZXDo-6WQ.png]]
+  
+
+![1_lpFHTE8FPedsjAZXDo-6WQ.png](https://codahosted.io/docs/-P8VwHSBHL/blobs/bl-n3z25_c9Ky/b955d8f8c41acb78d5b5653609b49c6887e709cecacbf5770d9f83bfd9f9ab8e19e4a277c0420c949a7258ec154aa65cd472ee263b2f1fc140a4600818f06996120dda05d3e306f06c6eca556ae8b31265e6f1042f0a7b1cfc491f66203ef765500d8289)
 
 SarblohAvtar comes from the SarblohGranth, attributed to Guru Gobind Singh, although authorship is debated as it likely contains his court poets as well. But regardless, SarblohAvtar is particularly intersting because it connects with the lines from Akal Ustat (the first passage above) which also appear in the Sarbloh Granth.
 

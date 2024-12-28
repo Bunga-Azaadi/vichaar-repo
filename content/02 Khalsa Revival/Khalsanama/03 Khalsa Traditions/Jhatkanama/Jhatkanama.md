@@ -1,2 +1,0 @@
-- [[Jhatka Revival Plan]]
-- [[Jhatka Vichaar]]

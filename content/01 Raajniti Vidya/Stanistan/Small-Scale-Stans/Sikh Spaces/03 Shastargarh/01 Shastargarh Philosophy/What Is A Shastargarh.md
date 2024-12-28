@@ -12,10 +12,10 @@ There is also a very important community psyche component with consciously bowin
 
 ---
 
-[Weaponry As God · Khalsanama](https://coda.io/@bunga-azaadi/khalsanama/weaponry-as-god-9)
+[Weaponry As God · Khalsanama](https://bungaazaadi.com/02-Khalsa-Revival/Khalsanama/02-Khalsa-Mindset/01-Khalsa-Weapons/Weaponry-As-God)
 
 ---
 
-[The Formation of the Shastardhari Panth · Khalsanama](https://coda.io/@bunga-azaadi/khalsanama/the-formation-of-the-shastardhari-panth-20)
+[The Formation of the Shastardhari Panth · Khalsanama](https://bungaazaadi.com/02-Khalsa-Revival/Khalsanama/02-Khalsa-Mindset/01-Khalsa-Weapons/The-Formation-of-the-Shastardhari-Panth)
 
 ---

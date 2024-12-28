@@ -260,8 +260,9 @@ Again, it must be stressed that not all regions, groups or organisations have to
 
 To conclude this final section, the below is a simplified diagram representing how different systems of law co-exist. At the bottom you have the underlying NAP base layer that all living within Azadism must adhere to unless you have agreed to a contract saying otherwise. On top of this base layer is where these contracts exist. These may also from part of a whole additional legal system that each individual can volunteer to take part in if they so desire. For example, a private city-state in the Azadist system may require residents to abide by a set of laws before moving in. However, these laws are constrained only to the jurisdiction of the property owned by the city-state’s owners.
 
+  
 
-![[Azadist_Law_System.png]]
+![Azadist_Law_System.png](https://codahosted.io/docs/CocvSsnuTW/blobs/bl-cK_bg-OjUm/dead5c0ec8e063c3e4052332e9cc75dccba1d419b13eb0adebc28cc0993b6e11b6cca2b8baf5e37aaf654cbccdfc8813d1565e0d868fc67415d3efc5238a6a0c7ea431df4e6bd45a5a6b09b714bc5145ca9c37eb2889b56ba44020770539161e4bb2d67e)
 
 ## Other Useful Resources
 

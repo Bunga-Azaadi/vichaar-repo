@@ -4,4 +4,4 @@ This Vichaar Repository is a collection of Vichaars related to the philosophy of
 
 - [[Khalsa Status]]
 - [[Khalsa Mindset]]
-- [[Khalsa Traditions]]
+- [[00 Khalsa Traditions]]
