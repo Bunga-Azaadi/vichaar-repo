@@ -27,10 +27,21 @@ document.addEventListener("nav", () => {
 
   // Darkmode toggle
   const themeButton = document.querySelector("#darkmode") as HTMLButtonElement
+  const themeToggle = document.getElementById("dark-mode-toggle") as HTMLInputElement
+
   if (themeButton) {
     themeButton.addEventListener("click", switchTheme)
     window.addCleanup(() => themeButton.removeEventListener("click", switchTheme))
   }
+  if (themeToggle) {
+    if (document.documentElement.getAttribute("saved-theme") === "dark") {
+      themeToggle.checked = true
+    }
+
+    themeToggle.addEventListener("change", switchTheme)
+    window.addCleanup(() => themeToggle.removeEventListener("change", switchTheme))
+  }
+
   // Listen for changes in prefers-color-scheme
   const colorSchemeMediaQuery = window.matchMedia("(prefers-color-scheme: dark)")
   colorSchemeMediaQuery.addEventListener("change", themeChange)
