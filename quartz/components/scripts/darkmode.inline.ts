@@ -16,6 +16,8 @@ document.addEventListener("nav", () => {
     document.documentElement.setAttribute("saved-theme", newTheme)
     localStorage.setItem("theme", newTheme)
     emitThemeChangeEvent(newTheme)
+
+    themeToggle.checked = newTheme === "dark" ? true : false
   }
 
   const themeChange = (e: MediaQueryListEvent) => {
@@ -23,6 +25,8 @@ document.addEventListener("nav", () => {
     document.documentElement.setAttribute("saved-theme", newTheme)
     localStorage.setItem("theme", newTheme)
     emitThemeChangeEvent(newTheme)
+
+    themeToggle.checked = newTheme === "dark" ? true : false
   }
 
   // Darkmode toggle

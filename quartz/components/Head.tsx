@@ -121,7 +121,8 @@ export default (() => {
     const path = url.pathname as FullSlug
     const baseDir = fileData.slug === "404" ? path : pathToRoot(fileData.slug!)
 
-    const iconPath = joinSegments(baseDir, "static/icon.png")
+    const iconBlackPath = joinSegments(baseDir, "static/png/icon-square-black.png")
+    const iconWhitePath = joinSegments(baseDir, "static/png/icon-square-white.png")
 
     const ogImageDefaultPath = `https://${cfg.baseUrl}/static/og-image.png`
     // "static/social-images/slug-filename.md.webp"
@@ -193,7 +194,8 @@ export default (() => {
             <meta property="twitter:url" content={socialUrl}></meta>
           </>
         )}
-        <link rel="icon" href={iconPath} />
+        <link href={iconBlackPath} rel="icon" media="(prefers-color-scheme: light)" />
+        <link href={iconWhitePath} rel="icon" media="(prefers-color-scheme: dark)" />
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
         {css.map((resource) => CSSResourceToStyleElement(resource, true))}
