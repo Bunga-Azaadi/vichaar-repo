@@ -39,6 +39,23 @@ const defaultOptions: BreadcrumbOptions = {
   hideOnRoot: true,
   showCurrentPage: true,
 }
+const customOptions: BreadcrumbOptions = {
+  ...defaultOptions,
+  spacerSymbol: `<svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="12"
+                height="12"
+                viewBox="5 8 14 8"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                class="folder-icon"
+              >
+                <polyline points="6 9 12 15 18 9"></polyline>
+              </svg>`,
+}
 
 function formatCrumb(displayName: string, baseSlug: FullSlug, currentSlug: SimpleSlug): CrumbData {
   return {
@@ -50,6 +67,7 @@ function formatCrumb(displayName: string, baseSlug: FullSlug, currentSlug: Simpl
 export default ((opts?: Partial<BreadcrumbOptions>) => {
   // Merge options with defaults
   const options: BreadcrumbOptions = { ...defaultOptions, ...opts }
+  // const options: BreadcrumbOptions = { ...customOptions, ...opts }
 
   // computed index of folder name to its associated file data
   let folderIndex: Map<string, QuartzPluginData> | undefined
@@ -127,7 +145,24 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
         {crumbs.map((crumb, index) => (
           <div class="breadcrumb-element">
             <a href={crumb.path}>{crumb.displayName}</a>
-            {index !== crumbs.length - 1 && <p>{` ${options.spacerSymbol} `}</p>}
+            {index !== crumbs.length - 1 && (
+              <div style="margin:0 8px;">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="12"
+                  height="12"
+                  viewBox="5 8 14 8"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="2"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  transform="rotate(-90)"
+                >
+                  <polyline points="6 9 12 15 18 9"></polyline>
+                </svg>
+              </div>
+            )}
           </div>
         ))}
       </nav>

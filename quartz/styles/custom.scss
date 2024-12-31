@@ -1,3 +1,208 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+@font-face {
+  font-family: "Switzer";
+  src:
+    url("/static/fonts/switzer/switzer.woff") format("woff"),
+    url("/static/fonts/switzer/switzer.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Switzer";
+  src:
+    url("/static/fonts/switzer/switzer-italic.woff") format("woff"),
+    url("/static/fonts/switzer/switzer-italic.woff2") format("woff2");
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Inconsolata";
+  src:
+    url("/static/fonts/inconsolata/inconsolata.woff") format("woff"),
+    url("/static/fonts/inconsolata/inconsolata.woff2") format("woff2");
+}
+
+h1,
+.h1 {
+  font-family: "Switzer";
+  font-size: 2rem;
+}
+
+h2,
+.h2 {
+  font-family: "Switzer";
+  font-size: 1.75rem;
+}
+
+h3,
+.h3 {
+  font-family: "Switzer";
+  font-size: 1.5rem;
+}
+
+h4,
+.h4 {
+  font-family: "Switzer";
+  font-size: 1.25rem;
+}
+
+p,
+.p {
+  font-family: "Switzer";
+  font-size: 1rem;
+}
+
+.logo-light,
+.logo-dark {
+  & > img {
+    margin: 0;
+  }
+}
+
+:root[saved-theme="dark"] {
+  .logo {
+    &-light {
+      display: block;
+    }
+
+    &-dark {
+      display: none;
+    }
+  }
+
+  #explorer-content {
+    --secondary: white;
+  }
+}
+
+:root[saved-theme="light"] {
+  .logo {
+    &-light {
+      display: none;
+    }
+
+    &-dark {
+      display: block;
+    }
+  }
+}
+
+#dark-mode-toggle {
+  height: 20px;
+  width: 40px;
+  background-color: #e3e3e3;
+  border: none;
+  appearance: none;
+  overflow: hidden;
+  border-radius: 24px;
+  position: relative;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  margin-inline: 0;
+  margin: 0;
+  will-change: background-color;
+  transform: none;
+
+  &::before {
+    content: "";
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    background-color: #3a3a3a;
+    border-radius: 24px;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 3px;
+    transition: all 0.2s ease;
+    will-change: left;
+  }
+
+  &:checked {
+    background-color: #3a3a3a;
+
+    &::before {
+      background-color: #e3e3e3;
+      left: 21px;
+    }
+
+    &::after {
+      content: none;
+    }
+  }
+}
+
+@media (max-width: 800px) {
+  #dark-mode-toggle {
+    margin-left: 12px;
+  }
+}
+
+#explorer-content {
+  --headerFont: "Inconsolata", serif;
+  --secondary: black;
+
+  font-family: "Inconsolata", serif;
+}
+
+.breadcrumb-container {
+  font-family: "Inconsolata", serif;
+  --secondary: currentColor;
+  gap: 0;
+}
+
+.backlinks {
+  font-family: "Inconsolata", serif;
+}
+
+.toc {
+  font-family: "Inconsolata", serif;
+}
+
+body {
+  background-color: var(--bg);
+}
+
+@media (max-width: 800px) {
+  .logo-light,
+  .logo-dark {
+    & > img {
+      width: 80px;
+    }
+  }
+}
+
+@media (min-width: 801px) {
+  .left {
+    padding-right: 12px !important;
+    border-right: 1px solid #f1ecec;
+  }
+
+  .right {
+    padding-left: 12px !important;
+  }
+
+  .footer {
+    padding: 0 20px;
+  }
+
+  .center-inner {
+    padding: 0 20px;
+  }
+}
+
+:root {
+  --bg: white;
+}
+
+:root[saved-theme="dark"] {
+  --bg: #070707;
+
+  .left {
+    border-right: 1px solid #393639;
+  }
+}
+
+a.internal.tag-link {
+  font-family: 'Inconsolata', serif;
+}

@@ -226,24 +226,26 @@ export function renderPage(
           <Body {...componentData}>
             {LeftComponent}
             <div class="center">
-              <div class="page-header">
-                <Header {...componentData}>
-                  {header.map((HeaderComponent) => (
-                    <HeaderComponent {...componentData} />
-                  ))}
-                </Header>
-                <div class="popover-hint">
-                  {beforeBody.map((BodyComponent) => (
+              <div class="center-inner">
+                <div class="page-header">
+                  <Header {...componentData}>
+                    {header.map((HeaderComponent) => (
+                      <HeaderComponent {...componentData} />
+                    ))}
+                  </Header>
+                  <div class="popover-hint">
+                    {beforeBody.map((BodyComponent) => (
+                      <BodyComponent {...componentData} />
+                    ))}
+                  </div>
+                </div>
+                <Content {...componentData} />
+                <hr />
+                <div class="page-footer">
+                  {afterBody.map((BodyComponent) => (
                     <BodyComponent {...componentData} />
                   ))}
                 </div>
-              </div>
-              <Content {...componentData} />
-              <hr />
-              <div class="page-footer">
-                {afterBody.map((BodyComponent) => (
-                  <BodyComponent {...componentData} />
-                ))}
               </div>
             </div>
             {RightComponent}
