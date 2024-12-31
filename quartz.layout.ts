@@ -23,10 +23,12 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TagList(),
   ],
   left: [
-    Component.PageTitle(),
+    // Component.PageTitle(),
+    Component.Logo(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.Darkmode(),
+    // Component.Darkmode(),
+    Component.DarkModeToggle(),
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
@@ -40,10 +42,12 @@ export const defaultContentPageLayout: PageLayout = {
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
-    Component.PageTitle(),
+    // Component.PageTitle(),
+    Component.Logo(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.Darkmode(),
+    // Component.Darkmode(),
+    Component.DarkModeToggle(),
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [],
