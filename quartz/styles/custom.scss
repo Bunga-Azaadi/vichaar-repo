@@ -198,11 +198,13 @@ body {
 :root[saved-theme="dark"] {
   --bg: #070707;
 
-  .left {
-    border-right: 1px solid #393639;
+  @media (min-width: 801px) {
+    .left {
+      border-right: 1px solid #393639;
+    }
   }
 }
 
 a.internal.tag-link {
-  font-family: 'Inconsolata', serif;
+  font-family: "Inconsolata", serif;
 }
